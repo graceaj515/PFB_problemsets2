@@ -1,0 +1,16 @@
+  321  ls
+  322  cd ..
+  323  git commit files
+  324  git add files/cancer_genes.fasta
+  325  gitcommit -m 'files'
+  326  git commit -m 'files'
+  327  git push
+  328  git rm oops2.txt
+  329  git commit -m 'remove oops2'
+  330  git push
+  331  man rm
+  332  history
+  333  touch myhistory.txt | history
+  334  ls
+  335  cat myhistory.txt
+  336  head myhistory.txt
