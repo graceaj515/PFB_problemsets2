@@ -1,3 +1,5 @@
 #!/usr/bin/env python3
-my_name = 'Grace'
-print('My name is'+ ' ' + my_name) 
+import sys
+name = sys.argv[1]
+fav_color = sys.argv[2]
+print('My name is' + ' ' + name + '.' + ' ' + 'My favorite color is' + ' ' + fav_color + '.') 
