@@ -1,4 +1,4 @@
-#!/usr/bin/evn python3
+#!/usr/bin/env python3
 import re
 with open('Python_07.fasta', 'r') as fasta_file:
 	for line in fasta_file:
